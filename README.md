@@ -21,7 +21,7 @@ Analysis of  NYC traffic collisions to identify risk patterns, trends and hotspo
 
 ## Repository Structure
 * `01_raw_schema_setup.sql:` Creation of initial schema and raw data ingestion. <br>
-* `02_data_profiling.sql:` Initial exploration and data quality profiling. <br>
+* `02_data_profiling_eda.sql:` Initial exploration and data quality profiling. <br>
 * `03_data_cleaning.sql:` Transformation, cleaning and standardization towards relational modeling. <br>
 * `04_eda_analysis.sql:` Aggregation queries and bridge views creation. <br>
-* `05_nyc_collisions_dashboard.pbix:` Interactive dashboard designed in Power BI. <br>
+* `05_nyc_collisions_dashboard.pbix:` Interactive dashboard designed in Power BI ([Download .pbix file](https://drive.google.com/file/d/1I9pCmHUqF2YwqSKIew5xrVac5xXtOKZe/view?usp=drive_link)).
