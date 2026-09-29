@@ -17,7 +17,7 @@ Analysis of  NYC traffic collisions to identify risk patterns, trends and hotspo
 **Power BI Integration:** Primary and foreign keys integrity was validated, enabling bridge views bidirectional filtering in order to guarantee correct filter propagation across many-to-many relationships.
 
 ## Visualization
-
+![NYC Collisions Dashboard](05_nyc_collisions_dashboard.png)
 
 ## Repository Structure
 * `01_raw_schema_setup.sql:` Creation of initial schema and raw data ingestion. <br>
